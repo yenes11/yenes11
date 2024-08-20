@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Enes Yurtsever</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">React/React Native developer</h3>
 
 - 📫 How to reach me **ey.enesyurtsever@gmail.com**
-- ⚛️ I am currently improving my react skills, trying to learn something everday
+- 📱 Building mobile apps using React Native
+- 🖥️ Developing scalable web apps with React.js
 - 🎮 Check out the mobile game I made with Ionic/Angular <a href="https://play.google.com/store/apps/details?id=com.tanosapps.tanosudoku&hl=en&gl=US">Android</a>-<a href="https://apps.apple.com/app/sudoku-block-tanosudoku/id1643765955?platform=iphone">IOS</a>
 
 <h3 align="left">Connect with me:</h3>
